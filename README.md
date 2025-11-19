@@ -12,7 +12,7 @@ Les objectifs sont :
 
 ---
 
-# 📁 Structure du projet
+# Structure du projet
 ├── data/                      
 ├── notebooks/                 
 ├── images/                    
@@ -20,7 +20,7 @@ Les objectifs sont :
 
 ---
 
-# 🔧 Outils utilisés
+# Outils utilisés
 | Technologie              | Utilité                 |
 | ------------------------ | ----------------------- |
 | **Python**               | analyse et manipulation |
@@ -33,7 +33,7 @@ Les objectifs sont :
 
 ---
 
-# 📊 Analyse exploratoire (EDA)
+# Analyse exploratoire (EDA)
 Classement des produits les plus vendus 
 
 |ID| PRODUCTLINE 	      |TotalSales |
@@ -46,9 +46,14 @@ Classement des produits les plus vendus
 |5 | Ships 	          |714437.13  |
 |6 | Trains 	          |226243.47  |
 
+
 ---
 
+# Modélisation (ML simple)
+Régression linéaire pour prédire les ventes en fonction des quantités  
+![regression_lineaire](images/regression_lineaire.png)  
 
+Erreur MAE (erreur moyenne absolue)
 
 ---
 
