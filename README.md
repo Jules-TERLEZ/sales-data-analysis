@@ -35,7 +35,6 @@ Les objectifs sont :
 
 # Analyse exploratoire (EDA)
 Classement des produits les plus vendus 
-
 |ID| PRODUCTLINE 	      |TotalSales |
 |--|-------------------|-----------|
 |0 | Classic Cars 	    |3919615.66 |
@@ -45,8 +44,8 @@ Classement des produits les plus vendus
 |4 | Planes 	          |975003.57  |
 |5 | Ships 	          |714437.13  |
 |6 | Trains 	          |226243.47  |
-
-
+HISTOGRAMME DES VENTES PAR PRODUIT
+![HISTOGRAMME](IMAGES/VENTES_PAR_PRODUITS.PNG)
 ---
 
 # Modélisation (ML simple)
