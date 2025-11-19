@@ -54,9 +54,13 @@ Histogramme des ventes par produit
 Régression linéaire pour prédire les ventes en fonction des quantités  
 ![regression_lineaire](images/regression_lineaire.png)  
 
-Erreur MAE (erreur moyenne absolue)
-MAE : 1268.9075351357887
+---
 
+# Erreur MAE (erreur absolue)
+
+Erreur absolue point par point  
+![MAE](images/erreur_absolue_pt_par_pt.png)  
+MAE : 1268.9075351357887  
 
 ---
 
