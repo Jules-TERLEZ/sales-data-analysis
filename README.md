@@ -66,6 +66,6 @@ MAE : 1268.9075351357887
 
 # 📝 Conclusion
 - Les ventes sont fortement liées à la quantité commandée  
-- Les catégories Classic Cars et Motorcycles dominent les revenus  
+- Les catégories Classic Cars et Vintage Cars dominent les revenus  
 - Le modèle linéaire n’est qu’une première approche ; un modèle non linéaire pourrait améliorer les performances  
 - Prochaines étapes : améliorer les features, ajouter un modèle RandomForest, exploration temporelle  
