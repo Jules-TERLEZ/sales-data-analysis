@@ -44,8 +44,10 @@ Classement des produits les plus vendus
 |4 | Planes 	          |975003.57  |
 |5 | Ships 	          |714437.13  |
 |6 | Trains 	          |226243.47  |
-HISTOGRAMME DES VENTES PAR PRODUIT
-![HISTOGRAMME](IMAGES/VENTES_PAR_PRODUITS.PNG)
+
+Histogramme des ventes par produit  
+![HISTOGRAMME](images/ventes_par_produit.png)
+
 ---
 
 # Modélisation (ML simple)
@@ -53,6 +55,8 @@ Régression linéaire pour prédire les ventes en fonction des quantités
 ![regression_lineaire](images/regression_lineaire.png)  
 
 Erreur MAE (erreur moyenne absolue)
+MAE : 1268.9075351357887
+
 
 ---
 
