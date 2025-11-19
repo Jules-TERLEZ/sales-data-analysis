@@ -13,9 +13,9 @@ Les objectifs sont :
 ---
 
 # Structure du projet
-├── data/                                      
-├── images/ 
-├── notebooks/ 
+├── data/                                       
+├── images/   
+├── notebooks/   
 └── README.md                   
 
 ---
